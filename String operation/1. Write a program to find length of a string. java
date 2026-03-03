@@ -1,0 +1,3 @@
+public int string_find_length(String str){
+        return str.length();
+    }
